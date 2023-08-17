@@ -1,4 +1,4 @@
-# Front-End Web Developer Portfolio - Hayder Almamoori
+# Front-End Web Developer - Hayder Almamoori
 
 👋 Hello! Welcome to my front-end developer portfolio repository. I'm Hayder Almamoori, a passionate front-end web developer with a creative flair and a dedication to producing high-quality, user-centered designs. I love transforming ideas into interactive and visually appealing websites that engage and captivate users.
 
