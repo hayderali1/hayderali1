@@ -12,5 +12,5 @@
 
 - HTML5, CSS3, JavaScript
 - Responsive Web Design
-- Front-End Frameworks: React, next.js
+- Front-End Frameworks: React, Next.js
 - Version Control: Git and GitHub
