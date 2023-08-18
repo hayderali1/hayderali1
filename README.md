@@ -14,3 +14,6 @@
 - Responsive Web Design
 - Front-End Frameworks: React, Next.js
 - Version Control: Git and GitHub
+
+💻 Tech Stack:
+react logo javascript logo html5 logo css3 logo python logo C++ logo
