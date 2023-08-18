@@ -10,7 +10,7 @@
 
 ## Skills
 
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, Tailwind CSS, JavaScript
 - Responsive Web Design
 - Front-End Frameworks: React, Next.js
 - Version Control: Git and GitHub
