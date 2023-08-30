@@ -14,7 +14,8 @@
 - Responsive Web Design
 - Front-End Frameworks: React, Next.js
 - Version Control: Git and GitHub
--IOT and MicroControllers
+- IOT and MicroControllers
+
 ## languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
