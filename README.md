@@ -10,11 +10,11 @@
 
 ## Skills
 
-- HTML5, CSS3, Tailwind CSS, JavaScript
-- Responsive Web Design
-- Front-End Frameworks: React, Next.js
-- Version Control: Git and GitHub
-- IOT and MicroControllers
+- HTML5, CSS3, Tailwind CSS, JavaScript.
+- Responsive Web Design.
+- Front-End Frameworks: React, Next.js.
+- Version Control: Git and GitHub.
+- IOT and MicroControllers.
 
 ## languages:
 <div align="left">
