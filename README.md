@@ -28,4 +28,3 @@ Hayder Almamoori
   <img src="https://icongr.am/devicon/jquery-original-wordmark.svg" height="40" width="52" alt="C logo"  />
 
 </div>
-google-site-verification: googled4b6da3ecb043f12.html
