@@ -11,7 +11,7 @@ Hayder ALmamoori
 ## Skills
 - HTML5, CSS3, Tailwind CSS, JavaScript.
 - Responsive Web Design.
-- Front-End Frameworks: React, Next.js.
+- Front-End Frameworks: React, Next.js, Node.js.
 - Version Control: Git and GitHub.
 - IOT and MicroControllers.
 
