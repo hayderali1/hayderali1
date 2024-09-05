@@ -9,7 +9,7 @@ Hayder ALmamoori
 - 💬 Feel free to reach out to me via e-mail: haideralmamori94@gmail.com I'm always open to discussions and collaboration opportunities!!
 
 ## Skills
-- HTML5, CSS3, Tailwind CSS, JavaScript.
+- HTML5, CSS3, Tailwind , JavaScript.
 - Responsive Web Design.
 - Front-End Frameworks: React, Next.js, Node.js.
 - Version Control: Git and GitHub.
