@@ -28,4 +28,4 @@ Hayder ALmamoori
 
 </div>
 
- POrtfolio:https://hayder-almamoori.netlify.app/
+ Portfolio:https://hayder-almamoori.netlify.app/
