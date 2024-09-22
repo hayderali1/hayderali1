@@ -13,7 +13,7 @@ Hayder ALmamoori
 - Responsive Web Design.
 - Front-End Frameworks: React, Next.js, Node.js.
 - Version Control: Git and GitHub.
-- IOT and MicroControllers.
+- IOT systems and MicroControllers.
 
 ## languages:
 <div align="left">
