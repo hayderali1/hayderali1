@@ -8,7 +8,7 @@ Hayder Almamoori
 - 🌱 I’m continuously learning and exploring new front-end technologies to stay up-to-date with the latest trends.
 - 💬 Feel free to reach out to me via e-mail: haideralmamori94@gmail.com I'm always open to discussions and collaboration opportunities!!
 
-## Skills
+## Skills:
 
 - HTML5, CSS3, Tailwind , JavaScript , C , C++.
 - Responsive Web Design.
